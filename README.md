@@ -10,7 +10,7 @@ Di jantung kota metropolitan Chicago, berdirilah sebuah perusahaan penjual mobil
 
 ## Konten Utama
 
- - [Main Project ipynb : US Youtube Trending Data](https://github.com/Markenji/Project-Capstone-Modul-2-Data-Analyst/blob/main/Capstone%20Project%202%20Youtube%20(4).ipynb)  
+ - [Main Project ipynb : Grain Analysis for Markenji Farm](https://github.com/Markenji/Grain-Analysis-for-Markenji-Farm/blob/main/Grain_Analysis_for_Markenji_Farm_Analisis_Biji_bijian_untuk_Ladang_Markenji.ipynb)  
 ![Pandas License](https://img.shields.io/badge/pandas-1.4.2-lightgrey)  
 ![Pandas License](https://img.shields.io/badge/numpy-1.23.2-yellow)  
 ![Pandas License](https://img.shields.io/badge/seaborn-0.11.2-blue)  
