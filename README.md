@@ -4,7 +4,7 @@
 
 ## Grain Analysis for Markenji Farm / Analisis Biji-bijian untuk Ladang Markenji
 
-Pada project capstone ke-2 yang bertema Data Analyst dimana kami bebas menentukan masalah dan menyelesaikannya menggunakan data yang telah diberikan. Disini kami dituntun untuk bisa mencari Insight yang ada pada data kemudian memberikan Kesimpulan dan Rekomendasi berdasarkan apa yang kami temukan pada data itu sendiri. Data yang digunakan adalah data berisikan data video trending yang ada di negara US 
+Di jantung kota metropolitan Chicago, berdirilah sebuah perusahaan penjual mobil bekas yang cukup terkenal, bernama Markenji Second Car. Didirikan sepuluh tahun yang lalu oleh seorang pengusaha muda visioner bernama Markenji FullBaster, perusahaan ini berkembang pesat berkat reputasi mereka dalam menyediakan mobil bekas berkualitas, terutama mobil-mobil mewah seperti Mercedes-Benz, dengan harga yang kompetitif. Namun, di balik kesuksesan tersebut, ada satu tantangan besar yang terus menghantui Markenji dan timnya: bagaimana menentukan harga mobil bekas Mercedes-Benz dengan baik dan benar di pasar Amerika Serikat.
 
 
 
